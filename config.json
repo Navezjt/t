@@ -64,20 +64,125 @@
     "TRTSpor.tr": {
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTSpor.tr\" site_id=\"31\">TRT SPOR</channel>"
     },
+    "TRTSporYildiz.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTSporYildiz.tr\" site_id=\"205\">TRT SPOR YILDIZ</channel>"
+    },
+    "SportsTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SportsTV.tr\" site_id=\"173\">SPORTS TV</channel>"
+    },
+    "GSTV.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"GSTV.tr\" site_id=\"75\">GS TV HD</channel>"
+    },
+    "TRTBelgesel.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTBelgesel.tr\" site_id=\"21\">TRT BELGESEL</channel>"
+    },
+    "TRTAvaz.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTAvaz.tr\" site_id=\"193\">TRT AVAZ</channel>"
+    },
+    "TGRTBelgesel.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TGRTBelgesel.tr\" site_id=\"122#59dca751cfef0b4d80a47b88\">TGRT Belgesel</channel>"
+    },
     "TRTHaber.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"31#58d29bb0eefad3db9c606289\">TRT Haber</channel>"
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTHaber.tr\" site_id=\"30\">TRT HABER</channel>"
     },
-    "TRTTurk.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTTurk.tr\" site_id=\"96#58d29bb0eefad3db9c60624c\">TRT Türk</channel>"
+    "CNNTurk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"CNNTurk.tr\" site_id=\"158\">CNN TÜRK</channel>"
     },
-    "TRTWorld.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRTWorld.tr\" site_id=\"170#58d29bb0eefad3db9c6062cc\">TRT World</channel>"
+    "NTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NTV.tr\" site_id=\"81\">NTV</channel>"
     },
-    "TV8.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TV8.tr\" site_id=\"27#58d29bb0eefad3db9c6062ae\">TV8</channel>"
+    "HalkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HalkTV.tr\" site_id=\"91\">HALK TV</channel>"
     },
-    "UlusalKanal.tr": {
-      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlusalKanal.tr\" site_id=\"2240\">ULUSAL KANAL</channel>"
+    "UlkeTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"UlkeTV.tr\" site_id=\"145\">ÜLKE TV</channel>"
+    },
+    "HaberGlobal.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HaberGlobal.tr\" site_id=\"5\">HABER GLOBAL</channel>"
+    },
+    "BloombergHT.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"BloombergHT.tr\" site_id=\"96\">BLOOMBERG HT</channel>"
+    },
+    "HaberturkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"HaberturkTV.tr\" site_id=\"87\">HABERTÜRK</channel>"
+    },
+    "24TV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"24TV.tr\" site_id=\"32\">24</channel>"
+    },
+    "TV100.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TV100.tr\" site_id=\"179\">TV100</channel>"
+    },
+    "KRT.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"KRT.tr\" site_id=\"111\">KRT TV</channel>"
+    },
+    "TVNET.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TVNET.tr\" site_id=\"92\">TVNET</channel>"
+    },
+    "Ekoturk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Ekoturk.tr\" site_id=\"100\">EKOTÜRK</channel>"
+    },
+    "AkitTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"AkitTV.tr\" site_id=\"13\">AKİT TV</channel>"
+    },
+    "BenguturkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"BenguturkTV.tr\" site_id=\"47\">BENGÜTÜRK</channel>"
+    },
+    "TGRTHaber.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TGRTHaber.tr\" site_id=\"34\">TGRT HABER</channel>"
+    },
+    "TurkHaberTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4335\">TURKHABER</channel>"
+    },
+    "FlashTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"2979\">FLASH TV</channel>"
+    },
+    "Number1TV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1TV.tr\" site_id=\"204\">NUMBER1 TV</channel>"
+    },
+    "MilyonTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"MilyonTV.tr\" site_id=\"121#5c9889b0cfef0b4cffc475b4\">Milyon</channel>"
+    },
+    "TatlisesTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TatlisesTV.tr\" site_id=\"103#644a774dcfef0b02d28abccb\">Tatlıses Tv</channel>"
+    },
+    "Number1Ask.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1Ask.tr\" site_id=\"33\">NR1 AŞK</channel>"
+    },
+    "Number1Damar.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Number1Damar.tr\" site_id=\"41\">NR1 DAMAR</channel>"
+    },
+    "Number1Dance.tr": {
+
+    },
+    "TRTMuzik.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRTMuzik.tr\" site_id=\"159\">TRT MÜZİK</channel>"
+    },
+    "DreamTurk.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DreamTurk.tr\" site_id=\"153\">DREAM TÜRK</channel>"
+    },
+    "PowerTurkTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTurkTV.tr\" site_id=\"202\">POWER TURK</channel>"
+    },
+    "PowerTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+    },
+    "PowerTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"PowerTV.tr\" site_id=\"172\">POWER TV</channel>"
+    },
+    "PowerTurkTaptaze.tr": {
+
+    },
+    "PowerDance.tr": {
+
+    },
+    "PowerLove.tr": {
+
+    },
+    "PowerTurkAkustik.tr": {
+
+    },
+    "PowerTurkSlow.tr": {
+
     }
   },
   "custom": {
@@ -135,6 +240,96 @@
     },
     "ASpor.tr": {
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ASpor.tr\" site_id=\"3\">A SPOR</channel>"
+    },
+    "Eurosport1.fr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Eurosport1.fr\" site_id=\"77\">EUROSPORT 1</channel>"
+    },
+    "Eurosport2.fr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Eurosport2.fr\" site_id=\"106\">EUROSPORT 2</channel>"
+    },
+    "FBTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"FBTV.tr\" site_id=\"148\">FB TV</channel>"
+    },
+    "TJKTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TJKTV.tr\" site_id=\"15\">TJK TV</channel>"
+    },
+    "TAYTV.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TAYTV.tr\" site_id=\"71#59dca4d8cfef0b4d80a47b7a\">TAY TV</channel>"
+    },
+    "DMAX.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DMAX.tr\" site_id=\"180\">DMAX</channel>"
+    },
+    "TLC.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"174\">TLC</channel>"
+    },
+    "DiscoveryChannel.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DiscoveryChannel.tr\" site_id=\"8\">DISCOVERY CHANNEL</channel>"
+    },
+    "InvestigationDiscoveryEurope.us": {
+      "epg": "<channel site=\"turksatkablo.com.tr\" lang=\"tr\" xmltv_id=\"InvestigationDiscoveryEurope.us\" site_id=\"1443\">ID</channel>"
+    },
+    "NationalGeographic.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NationalGeographic.tr\" site_id=\"2799\">NATIONAL GEOGRAPHIC</channel>"
+    },
+    "NationalGeographicWild.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NationalGeographicWild.tr\" site_id=\"139\">NATIONAL GEOGRAPHIC WILD</channel>"
+    },
+    "AHaber.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"AHaber.tr\" site_id=\"160\">A HABER</channel>"
+    },
+    "APara.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"APara.tr\" site_id=\"79\">A PARA</channel>"
+    },
+    "SZC.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4294\">SÖZCÜ TV</channel>"
+    },
+    "Tele1.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Tele1.tr\" site_id=\"189\">TELE1</channel>"
+    },
+    "beINSports1.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports1.tr\" site_id=\"77\">beIN SPORTS 1</channel>"
+    },
+    "beINSports2.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports2.tr\" site_id=\"78\">beIN SPORTS 2</channel>"
+    },
+    "beINSports3.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports3.tr\" site_id=\"79\">beIN SPORTS 3</channel>"
+    },
+    "beINSports4.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports4.tr\" site_id=\"80\">beIN SPORTS 4</channel>"
+    },
+    "beINSports5.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSports5.tr\" site_id=\"81\">beIN SPORTS 5</channel>"
+    },
+    "beINSportsMax1.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSportsMax1.tr\" site_id=\"82\">beIN SPORTS MAX HD 1</channel>"
+    },
+    "beINSportsMax2.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINSportsMax2.tr\" site_id=\"83\">beIN SPORTS MAX HD 2</channel>"
+    },
+    "SSport.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SSport.tr\" site_id=\"11\">S SPORT</channel>"
+    },
+    "SSport2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SSport2.tr\" site_id=\"170\">S SPORT 2</channel>"
+    },
+    "SporSmart.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SporSmart.tr\" site_id=\"74#58d29bb0eefad3db9c60628a\">Spor Smart</channel>"
+    },
+    "SporSmart2.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"SporSmart2.tr\" site_id=\"79#5fcb6bd2cfef0b15931fcdf8\">SPOR SMART 2</channel>"
+    },
+    "NBATV.us": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"NBATV.us\" site_id=\"18\">NBA TV</channel>"
+    },
+    "CBCSportHD.az": {
+      "epg": "<channel site=\"tv.mail.ru\" lang=\"ru\" xmltv_id=\"CBCSportHD.az\" site_id=\"3021\">CBC Sport HD</channel>"
+    },
+    "IdmanTV.az": {
+      "epg": "<channel site=\"tv.mail.ru\" lang=\"az\" xmltv_id=\"IdmanTV.az\" site_id=\"3122\">Idman</channel>"
+    },
+    "EDGEsport.uk": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"en\" xmltv_id=\"EDGEsport.uk\" site_id=\"137\">EDGE SPORT</channel>"
     }
   }
 }
