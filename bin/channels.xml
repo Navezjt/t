@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="360.tr" site_id="42#58d29bb0eefad3db9c606236">360</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="AHaber.tr" site_id="34#58d29bb0eefad3db9c60625e">a Haber</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="24#58d29bb0eefad3db9c60625f">ATV</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="BeyazTV.tr" site_id="39#58d29bb0eefad3db9c606298">Beyaz TV</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="CNNTurk.tr" site_id="158">CNN TÜRK</channel>
 <channel site="tv.blue.ch" lang="tr" xmltv_id="EuroD.tr" site_id="161">Euro D</channel>
@@ -25,5 +22,5 @@
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TRTTurk.tr" site_id="96#58d29bb0eefad3db9c60624c">TRT Türk</channel>
 <channel site="dsmart.com.tr" lang="tr" xmltv_id="TV8.tr" site_id="27#58d29bb0eefad3db9c6062ae">TV8</channel>
 <channel site="tvplus.com.tr" lang="tr" xmltv_id="UlusalKanal.tr" site_id="2240">ULUSAL KANAL</channel>
-<channel site="dsmart.com.tr" lang="tr" xmltv_id="TLC.tr" site_id="35#58d29bb0eefad3db9c606238">TLC</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="ATV.tr" site_id="124">ATV</channel>
 </channels>
