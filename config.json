@@ -1,14 +1,15 @@
 {
   "playlist": "https://iptv-org.github.io/iptv/countries/tr.m3u",
   "whitelisted": {
-    "360.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"360.tr\" site_id=\"42#58d29bb0eefad3db9c606236\">360</channel>"
+    "TRT1.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"TRT1.tr\" tvg-name=\"TRT 1\" tvg-logo=\"https://i.ibb.co/thr6mVk/trt-1.png\" group-title=\"ULUSAL\", TRT 1\nhttps://d1u68oyra9spme.cloudfront.net/master_4.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"TRT1.tr\" site_id=\"144\">TRT1</channel>"
     },
-    "AHaber.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"AHaber.tr\" site_id=\"34#58d29bb0eefad3db9c60625e\">a Haber</channel>"
+    "KanalD.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"KanalD.tr\" site_id=\"88\">KANAL D</channel>"
     },
-    "ATVAvrupa.tr": {
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"ATV.tr\" site_id=\"24#58d29bb0eefad3db9c60625f\">ATV</channel>"
+    "StarTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"StarTV.tr\" site_id=\"89\">STAR TV</channel>"
     },
     "BeyazTV.tr": {
       "m3u": "#EXTINF:-1 tvg-id=\"BeyazTV.tr\" tvg-logo=\"https://i.imgur.com/uykIdML.png\" group-title=\"Undefined\",Beyaz TV (720p) [Not 24/7]\nhttps://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
@@ -84,9 +85,9 @@
     }
   },
   "custom": {
-    "TLC.tr": {
-      "m3u": "#EXTINF:-1 tvg-id=\"TLC.tr\" tvg-name=\"TLC\" tvg-logo=\"https://i.imgur.com/8m3PMUf.png\" group-title=\"Undefined\",TLC\nhttps://dogus-live.daioncdn.net/tlc/tlc.m3u8",
-      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TLC.tr\" site_id=\"35#58d29bb0eefad3db9c606238\">TLC</channel>"
+    "ATV.tr": {
+      "m3u": "#EXTINF:-1 tvg-id=\"ATV.tr\" tvg-name=\"ATV\" tvg-logo=\"https://i.ibb.co/DwFJ0vn/atv.png\" group-title=\"ULUSAL\", ATV\nhttp://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ATV.tr\" site_id=\"124\">ATV</channel>"
     }
   }
 }
