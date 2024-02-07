@@ -330,6 +330,63 @@
     },
     "EDGEsport.uk": {
       "epg": "<channel site=\"tvplus.com.tr\" lang=\"en\" xmltv_id=\"EDGEsport.uk\" site_id=\"137\">EDGE SPORT</channel>"
+    },
+    "DisneyJunior.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"149\">DISNEY JUNIOR</channel>"
+    },
+    "CocukSmart.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"CocukSmart.tr\" site_id=\"110#58d29bb0eefad3db9c6062b5\">Çocuk Smart</channel>"
+    },
+    "Nickelodeon.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"Nickelodeon.tr\" site_id=\"172\">Nickelodeon</channel>"
+    },
+    "CBeebies.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"CBeebies.tr\" site_id=\"161\">CBEEBIES HD</channel>"
+    },
+    "TRT4K.tr": {
+      "epg": "<channel site=\"dsmart.com.tr\" lang=\"tr\" xmltv_id=\"TRT4K.tr\" site_id=\"174#59dcbee1cfef0b4d80a49650\">TRT 4K</channel>"
+    },
+    "SinemaTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaTV.tr\" site_id=\"166\">SİNEMA TV</channel>"
+    },
+    "Sinema1002.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"Sinema1002.tr\" site_id=\"190\">SİNEMA 1002</channel>"
+    },
+    "SinemaKomedi.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaKomedi.tr\" site_id=\"154\">SİNEMA KOMEDİ</channel>"
+    },
+    "SinemaYerli2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaYerli2.tr\" site_id=\"61\">SİNEMA YERLİ 2</channel>"
+    },
+    "SinemaAile2.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"SinemaAile2.tr\" site_id=\"182\">SİNEMA AİLE 2</channel>"
+    },
+    "BBCEarth.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"BBCEarth.tr\" site_id=\"183\">BBC EARTH HD</channel>"
+    },
+    "beINIZ.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINIZ.tr\" site_id=\"18\">beIN İZ</channel>"
+    },
+    "LoveNature.ca": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"LoveNature.ca\" site_id=\"45\">LOVE NATURE</channel>"
+    },
+    "TarihTV.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"\" site_id=\"4253\">TARIH TV</channel>"
+    },
+    "ViasatHistory.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"LoveNature.ca\" site_id=\"45\">LOVE NATURE</channel>"
+    },
+    "ViasatHistory.tr": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"ViasatHistory.tr\" site_id=\"44\">VIASAT HISTORY</channel>"
+    },
+    "Yaban.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"Yaban.tr\" site_id=\"189\">Yaban TV</channel>"
+    },
+    "DaVinci.de": {
+      "epg": "<channel site=\"tvplus.com.tr\" lang=\"tr\" xmltv_id=\"DaVinci.de\" site_id=\"208\">DA VINCI</channel>"
+    },
+    "beINGurme.tr": {
+      "epg": "<channel site=\"digiturk.com.tr\" lang=\"tr\" xmltv_id=\"beINGurme.tr\" site_id=\"21\">beIN GURME</channel>"
     }
   }
 }
