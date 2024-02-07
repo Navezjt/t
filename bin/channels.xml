@@ -104,4 +104,22 @@ undefined
 <channel site="tv.mail.ru" lang="ru" xmltv_id="CBCSportHD.az" site_id="3021">CBC Sport HD</channel>
 <channel site="tv.mail.ru" lang="az" xmltv_id="IdmanTV.az" site_id="3122">Idman</channel>
 <channel site="tvplus.com.tr" lang="en" xmltv_id="EDGEsport.uk" site_id="137">EDGE SPORT</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="" site_id="149">DISNEY JUNIOR</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="CocukSmart.tr" site_id="110#58d29bb0eefad3db9c6062b5">Çocuk Smart</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Nickelodeon.tr" site_id="172">Nickelodeon</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="CBeebies.tr" site_id="161">CBEEBIES HD</channel>
+<channel site="dsmart.com.tr" lang="tr" xmltv_id="TRT4K.tr" site_id="174#59dcbee1cfef0b4d80a49650">TRT 4K</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="SinemaTV.tr" site_id="166">SİNEMA TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="Sinema1002.tr" site_id="190">SİNEMA 1002</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="SinemaKomedi.tr" site_id="154">SİNEMA KOMEDİ</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="SinemaYerli2.tr" site_id="61">SİNEMA YERLİ 2</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="SinemaAile2.tr" site_id="182">SİNEMA AİLE 2</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="BBCEarth.tr" site_id="183">BBC EARTH HD</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="beINIZ.tr" site_id="18">beIN İZ</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="LoveNature.ca" site_id="45">LOVE NATURE</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="" site_id="4253">TARIH TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="ViasatHistory.tr" site_id="44">VIASAT HISTORY</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="Yaban.tr" site_id="189">Yaban TV</channel>
+<channel site="tvplus.com.tr" lang="tr" xmltv_id="DaVinci.de" site_id="208">DA VINCI</channel>
+<channel site="digiturk.com.tr" lang="tr" xmltv_id="beINGurme.tr" site_id="21">beIN GURME</channel>
 </channels>
